@@ -29,8 +29,9 @@ The key functionalities that the application fulfills are below:
 ** Long
 * CRUD  operation of SQLLite DB schema.
 * View : Listing the stored list of advertisers from the DB.
-* Foreground  thread switching implementation for Advertising and Scanning (discovering) with interval of 1 minute.
+* Foreground  thread switching implementation for Advertising and Scanning (discovering) with interval of 5 minutes.
 
+* The above can be acheived using Google NearBy API : https://developers.google.com/nearby/messages/overview
 
 # Optional Feature List:
 
